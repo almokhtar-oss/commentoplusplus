@@ -1,5 +1,7 @@
 # Commento++
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/souramoo/commentoplusplus)
+
 ### 💬 Try it out and deploy your own
 [LIVE DEMO](https://demo.souradip.com/chat.html)
 
